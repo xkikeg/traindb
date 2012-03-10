@@ -1,10 +1,10 @@
-id,country,englishName,localName
-1,jp,Hokkaido,北海道
-2,jp,Tohoku,東北
-3,jp,Kanto,関東
-4,jp,"Koshin'etsu, Hokuriku",甲信越・北陸
-5,jp,Tokai,東海
-6,jp,Kansai,関西
-7,jp,Chugoku,中国
-8,jp,Shikoku,四国
-9,jp,"Kyushu, Okinawa",九州・沖縄
+id,country,english_name,local_name
+1,392,Hokkaido,北海道
+2,392,Tohoku,東北
+3,392,Kanto,関東
+4,392,"Koshin'etsu, Hokuriku",甲信越・北陸
+5,392,Tokai,東海
+6,392,Kansai,関西
+7,392,Chugoku,中国
+8,392,Shikoku,四国
+9,392,"Kyushu, Okinawa",九州・沖縄

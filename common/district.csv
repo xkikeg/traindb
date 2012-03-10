@@ -1,4 +1,4 @@
-id,code,area,englishName,localName
+id,code,domesticregion,english_name,local_name
 01,JP-01,北海道,Hokkaido,北海道
 02,JP-02,東北,Aomori,青森県
 03,JP-03,東北,Iwate,岩手県
